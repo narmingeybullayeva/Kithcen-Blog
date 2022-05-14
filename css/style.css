@@ -1,0 +1,62 @@
+html {
+    font-size: 62.5%;
+  }
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+  } 
+  
+  body {
+    color: #222;
+    font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;
+    font-size: 1.8rem;
+    line-height: 1.5;
+    padding: 2rem;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #000;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    line-height: 1.1;
+  }
+  
+  h1 {
+    font-size: 5.61rem;
+  }
+  
+  h2 {
+    font-size: 4.209rem;
+  }
+  
+  h3 {
+    font-size: 3.157rem;
+  }
+  
+  h4 {
+    font-size: 2.369rem;
+  }
+  
+  h5 {
+    font-size: 1.777rem;
+  }
+  
+  h6 {
+    font-size: 1.333rem;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
+  ol li {
+    margin-bottom: 2rem;
+  }
+  
+  .lead {
+    font-family: 'PT Serif', 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+  }
+  
